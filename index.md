@@ -18,7 +18,6 @@ page.title: Turtle & Pandas!
 [![fixed](./assets/images/logiciel.png)](https://www.logicieleducatif.fr/)
 [![fixed](./assets/images/code.png)](https://code.org)
 [![fixed](./assets/images/scratch.png)](https://scratch.mit.edu)
-[![fixed](./assets/images/scratchjr.jpeg)](https://www.scratchjr.org)
 [![fixed](./assets/images/khan.jpeg)](https://www.khanacademy.org)
 
 ## Games
