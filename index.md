@@ -1,7 +1,8 @@
 ---
 layout: default
+Title: Launching Pad
 ---
-# Launching Pad
+# 
 
 ## School
 
