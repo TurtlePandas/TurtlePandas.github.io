@@ -2,11 +2,12 @@
 layout: default
 title: TurtlePandas Launching Pad
 ---
+# TurtlePandas Launching Pad
 
-# School
+## School
 
-# Games
+## Games
 
-# Entertainment
+## Entertainment
 [![fixed](./assets/images/netflix.jpeg)](https://netflix.com)
 [![fixed](./assets/images/disney+.jpeg)](https://disneyplus.com)
