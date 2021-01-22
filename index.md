@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Launching Pad
 
 ## School
 
