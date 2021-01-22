@@ -1,5 +1,6 @@
 ---
 layout: default
+title: TurtlePandas Launching Pad
 ---
 
 # School
